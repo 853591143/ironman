@@ -1,2 +1,2 @@
 # ironman
-learn  Angualr  for fresher
+learn  Angular  for fresher
